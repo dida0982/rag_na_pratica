@@ -1,0 +1,15 @@
+criei  arquivo "texto.txt"
+
+python -m venv venv
+
+pip list
+
+./venv/Scripts/Activate.ps1
+
+pip install chromadb
+
+pip install openai 
+
+criei arquivo "parte_1.py"
+
+criei arquivo "parte_2.py"
